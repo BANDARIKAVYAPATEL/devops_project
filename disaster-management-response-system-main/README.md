@@ -210,7 +210,7 @@ README.md
 ## Step 1 — Clone Repository
 
 bash
-git clone https://github.com/BOREDDYMEGHANAREDDY/disaster-management-response-system.git
+git clone https://github.com/BANDARIKAVYAPATEL/devops_project
 Step 2 — Install Backend Dependencies
 cd backend
 npm install
@@ -294,13 +294,12 @@ Portfolio Development
 Disaster Management Research
 👩‍💻 Author
 
-Name: Boreddy Meghana Reddy
+Name: Bandari kavya
 Course: B.Tech Computer Science Engineering
 Project: Disaster Management Response System
 
-GitHub Repository:
+GitHub Repository:https://github.com/BANDARIKAVYAPATEL/devops_project
 
-https://github.com/BOREDDYMEGHANAREDDY/disaster-management-response-system
 📜 License
 
 This project is developed for educational purposes only.
